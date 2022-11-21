@@ -4,6 +4,7 @@ RENCANA KONTEN SmD
   * Membuat website sederhana dari apa yang sudah dipelajari
   * Menjelaskan dengan baik hasil yang sudah dipelajari
    ^ Memberikan Challange untuk viewer
+   ^ Memberikan google drive khusus menampung hasil codingan viewer
 - Menyisipkan konten geming dan reaksion setiap hari jumat dan sabtu
 - Membuat Website Portofolio
   * Memberikan beberapa tampilan website agar di design buat oleh viewer
