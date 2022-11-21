@@ -1,4 +1,6 @@
 RENCANA KONTEN SmD
 - Review belajar HTML+CSS
+  * Membuat website sederhana dari apa yang sudah dipelajari
+  * Menjelaskan dengan baik hasil yang sudah dipelajari
 - Membuat Website Portofolio
 - Vlogs
