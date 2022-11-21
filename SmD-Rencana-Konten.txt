@@ -1,6 +1,8 @@
 RENCANA KONTEN SmD
+
 - Review belajar HTML+CSS
   * Membuat website sederhana dari apa yang sudah dipelajari
   * Menjelaskan dengan baik hasil yang sudah dipelajari
+- Menyisipkan konten geming dan reaksion setiap hari jumat dan sabtu
 - Membuat Website Portofolio
 - Vlogs
