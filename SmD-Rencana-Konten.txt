@@ -3,6 +3,8 @@ RENCANA KONTEN SmD
 - Review belajar HTML+CSS
   * Membuat website sederhana dari apa yang sudah dipelajari
   * Menjelaskan dengan baik hasil yang sudah dipelajari
-- Menyisipkan konten geming dan reaksion setiap hari jumat dan sabtu
+  ^ Membuat konten pyton
+  ^ Memberikan google drive khusus menampung hasil codingan viewer
 - Membuat Website Portofolio
+  ^ Memberikan beberapa tampilan website agar di design buat oleh viewer
 - Vlogs
